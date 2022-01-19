@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/portfolio/static/js/main.c9967488.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c9967488.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.965c0103.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.965c0103.js.map",
+    "static/js/2.f19023d1.chunk.js": "/portfolio/static/js/2.f19023d1.chunk.js",
+    "static/js/2.f19023d1.chunk.js.map": "/portfolio/static/js/2.f19023d1.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/portfolio/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f19023d1.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f19023d1.chunk.js.LICENSE.txt",
+    "static/media/Pexels Videos 2000817.aa87414b.mp4": "/portfolio/static/media/Pexels Videos 2000817.aa87414b.mp4",
+    "static/media/calculator.f312c059.png": "/portfolio/static/media/calculator.f312c059.png",
+    "static/media/crowdfunding-product-page.9c833aa5.png": "/portfolio/static/media/crowdfunding-product-page.9c833aa5.png",
+    "static/media/e-commerce-page.5436de6f.png": "/portfolio/static/media/e-commerce-page.5436de6f.png",
+    "static/media/e-commerce-store.837a10f7.png": "/portfolio/static/media/e-commerce-store.837a10f7.png",
+    "static/media/egyptian.9461878c.png": "/portfolio/static/media/egyptian.9461878c.png",
+    "static/media/giza.36f3f8b5.png": "/portfolio/static/media/giza.36f3f8b5.png",
+    "static/media/hieroglyph.0270a643.png": "/portfolio/static/media/hieroglyph.0270a643.png",
+    "static/media/price-grid-component.308f12f1.png": "/portfolio/static/media/price-grid-component.308f12f1.png",
+    "static/media/pyramid.91ffdcdd.png": "/portfolio/static/media/pyramid.91ffdcdd.png",
+    "static/media/pyramids.60cbdd16.png": "/portfolio/static/media/pyramids.60cbdd16.png",
+    "static/media/scarab.e24244a1.png": "/portfolio/static/media/scarab.e24244a1.png",
+    "static/media/snake-game.c382b2f5.png": "/portfolio/static/media/snake-game.c382b2f5.png",
+    "static/media/to-do-list.4c5944bb.png": "/portfolio/static/media/to-do-list.4c5944bb.png",
+    "static/media/weather-app.326720e1.png": "/portfolio/static/media/weather-app.326720e1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.965c0103.js",
+    "static/js/2.f19023d1.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.c9967488.chunk.js"
+  ]
+}
