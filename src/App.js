@@ -1,24 +1,33 @@
-import logo from './logo.svg';
-import './App.css';
+import { ThemeProvider } from "styled-components";
+import BackgroundVideo from "./components/BackgroundVideo/Index";
+import GlobalStyles from "./components/GlobalStyles";
+import Hero from "./components/Hero/Index";
+import Navbar from "./components/Navbar/Index";
+import { BrowserRouter as Router } from "react-router-dom";
+import About from "./components/About/Index";
+import Work from "components/Work";
+import Contact from "components/Contact"
+
+const theme = {
+  orange: "#FFBA08",
+  red: "#FF1F1F"
+
+}
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <ThemeProvider theme={ theme }>
+        <GlobalStyles />
+        <BackgroundVideo />
+        <Navbar />
+        <Hero />
+        <About/>
+        <Work />
+        <Contact />
+      </ThemeProvider>
+    </Router>
   );
 }
 
