@@ -7,7 +7,7 @@ import { BrowserRouter as Router } from "react-router-dom";
 import About from "./components/About/Index";
 import Work from "components/Work";
 import Contact from "components/Contact"
-
+import { Helmet } from "react-helmet"
 const theme = {
   orange: "#FFBA08",
   red: "#FF1F1F"
@@ -19,6 +19,12 @@ function App() {
   return (
     <Router>
       <ThemeProvider theme={ theme }>
+        <Helmet>
+            <meta charSet="utf-8" />
+            <title>Olwethu Matiwana's Portfolio</title>
+            <link rel="canonical" href="https://shakadeliks.github.io/portfolio/" />
+            <meta name="description" content="Portfolio of work and information of Olwethu Matiwana" />
+        </Helmet>
         <GlobalStyles />
         <BackgroundVideo />
         <Navbar />
