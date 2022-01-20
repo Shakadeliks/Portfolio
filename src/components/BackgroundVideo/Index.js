@@ -5,7 +5,7 @@ import Video from "../../assets/Pexels Videos 2000817.mp4"
 const BackgroundVideo = () => {
     return (
         <>
-            <BgVideo src={Video} muted loop autoPlay/>
+            <BgVideo src={Video} muted loop autoPlay playsinline="true" disablePictureInPicture="true"/>
             <Overlay />
         </>
     )
