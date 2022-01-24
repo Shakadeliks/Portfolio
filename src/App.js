@@ -20,10 +20,10 @@ function App() {
     <Router>
       <ThemeProvider theme={ theme }>
         <Helmet>
-            <meta charSet="utf-8" />
-            <title>Olwethu Matiwana's Portfolio</title>
-            <link rel="canonical" href="https://shakadeliks.github.io/portfolio/" />
-            <meta name="description" content="Portfolio of work and information of Olwethu Matiwana" />
+          <meta charSet="utf-8" />
+          <title>Olwethu Matiwana's Portfolio</title>
+          <link rel="canonical" href="https://shakadeliks.github.io/portfolio/" />
+          <meta name="description" content="Portfolio of work and information of Olwethu Matiwana" />
         </Helmet>
         <GlobalStyles />
         <BackgroundVideo />

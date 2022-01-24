@@ -53,7 +53,7 @@ const Work = () => {
         {
             Title: "Weather App",
             Image: WeatherApp,
-            LiveUrl: "https://shakadeliks.github.io/Weather-app/",
+            LiveUrl: "https://shakadeliks.github.io/weather-app/",
             GithubRepo: "https://github.com/Shakadeliks/Weather-app"
         },
         {
