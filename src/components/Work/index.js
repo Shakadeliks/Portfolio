@@ -65,7 +65,7 @@ const Work = () => {
         {
             Title: "Calculator",
             Image: Calculator,
-            LiveUrl: "https://shakadeliks.github.io/Calculator/",
+            LiveUrl: "https://shakadeliks.github.io/calculator/",
             GithubRepo: "https://github.com/Shakadeliks/Calculator"
         },
         {
