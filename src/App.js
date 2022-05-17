@@ -1,5 +1,4 @@
 import { ThemeProvider } from "styled-components";
-import BackgroundVideo from "./components/BackgroundVideo/Index";
 import GlobalStyles from "./components/GlobalStyles";
 import Hero from "./components/Hero/Index";
 import Navbar from "./components/Navbar/Index";
@@ -26,7 +25,7 @@ function App() {
           <meta name="description" content="Portfolio of work and information of Olwethu Matiwana" />
         </Helmet>
         <GlobalStyles />
-        <BackgroundVideo />
+
         <Navbar />
         <Hero />
         <About/>

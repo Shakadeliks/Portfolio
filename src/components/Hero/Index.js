@@ -8,10 +8,13 @@ import {AnimatedCharacter,
     } from './Hero.styles';
 import Egyptian from "assets/egyptian.png"
 import Scarab from "assets/scarab.png"
+import BackgroundVideo from "../BackgroundVideo/Index";
+
 
 const Hero = () => {
     return (
         <HeroContainer id="home">
+            <BackgroundVideo />
             <HeaderImg src={Egyptian} />
             <Heading>
                 O<AnimatedCharacter>L</AnimatedCharacter>WETHU "SH<AnimatedCharacter2>A</AnimatedCharacter2>K" MATIWANA

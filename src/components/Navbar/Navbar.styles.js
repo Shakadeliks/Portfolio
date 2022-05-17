@@ -1,7 +1,7 @@
 import styled, { css } from "styled-components"
-import { textBlink, borderBlink } from "../Hero/Hero.styles"
+import { borderBlink } from "../Hero/Hero.styles"
 import { CgMenuGridO, CgClose } from "react-icons/cg"
-import { BrowserRouter as Router, Route, Switch, Link as LinkR } from "react-router-dom"
+
 import { Link as LinkS } from "react-scroll"
 
 export const NavContainer = styled.nav`
@@ -78,7 +78,7 @@ export const Close = styled(CgClose)`
 `
 
 export const NavMenu = styled.ul`
-    font-family: 'Jost', sans-serif;
+
     font-weight: 400;
     position: fixed;
     top: 0;
@@ -123,7 +123,7 @@ export const NavLink = styled(LinkS)`
     font-size: 2rem;
     height: 100%;
     margin: 2rem 0;
-    font-family: "Lacquer";
+    font-family: 'Jost', sans-serif;
     color: ${({ theme }) => theme.orange};
     transition:all 0.3s;
 

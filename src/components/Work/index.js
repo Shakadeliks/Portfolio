@@ -4,20 +4,16 @@ import {
     ProjectsGridContainer,
     WorkHeading,
     WorkCard,
-    ProjectImg,
     ProjectTitle,
-    ImgWrap,
     HoverOverlay,
     ProjectLinks,
     LinkBtn
 } from "./Work.styles"
 import Giza from "../../assets/giza.png"
-import Pyramid1 from "../../assets/pyramid.png"
-import Pyramid2 from "../../assets/pyramids.png"
 import PriceGridComponent from "assets/price-grid-component.png"
 import CrowdfundingProductPage from "assets/crowdfunding-product-page.png"
 import ECommercePage from "assets/e-commerce-page.png"
-import ECommerceStore from "assets/e-commerce-store.png"
+import FullStackStore from "assets/fullstack-e-commerce-page.png"
 import WeatherApp from "assets/weather-app.png"
 import SnakeGame from "assets/snake-game.png"
 import Calculator from "assets/calculator.png"
@@ -45,10 +41,10 @@ const Work = () => {
             GithubRepo: "https://github.com/Shakadeliks/E-Commerce-Product-Page"
         },
         {
-            Title: "E-Commerce Store",
-            Image: ECommerceStore,
-            LiveUrl: "https://shakadeliks.github.io/E-Commerce-Store/",
-            GithubRepo: "https://github.com/Shakadeliks/E-Commerce-Store"
+            Title: "Full-stack E-Commerce Store",
+            Image: FullStackStore,
+            LiveUrl: "https://splendid-tapioca-9dae95.netlify.app/",
+            GithubRepo: "https://github.com/Shakadeliks/figaro-fullstack-e-commerce-store"
         },
         {
             Title: "Weather App",
