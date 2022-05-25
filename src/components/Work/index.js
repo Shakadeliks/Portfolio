@@ -10,7 +10,7 @@ import {
     LinkBtn
 } from "./Work.styles"
 import Giza from "../../assets/giza.png"
-import PriceGridComponent from "assets/price-grid-component.png"
+import Spotify from "assets/spotify.png"
 import CrowdfundingProductPage from "assets/crowdfunding-product-page.png"
 import ECommercePage from "assets/e-commerce-page.png"
 import FullStackStore from "assets/fullstack-e-commerce-page.png"
@@ -23,10 +23,10 @@ const Work = () => {
 
     const ProjectData = [
         {
-            Title: "Single Price Grid Component",
-            Image: PriceGridComponent,
-            LiveUrl: "https://shakadeliks.github.io/Single-Price-Component/",
-            GithubRepo: "https://github.com/Shakadeliks/Single-Price-Component"
+            Title: "Spotify Clone",
+            Image: Spotify,
+            LiveUrl: "https://spotify-fd7fd.web.app/#",
+            GithubRepo: "https://github.com/Shakadeliks/spotify-clone"
         },
         {
             Title: "Crowdfunding Product Page",
