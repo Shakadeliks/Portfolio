@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/portfolio/static/js/main.d41d84fe.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.d41d84fe.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.e325cebf.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e325cebf.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.965c0103.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.965c0103.js.map",
     "static/js/2.7f755bad.chunk.js": "/portfolio/static/js/2.7f755bad.chunk.js",
@@ -18,9 +18,9 @@
     "static/media/fullstack-e-commerce-page.c8ed0e50.png": "/portfolio/static/media/fullstack-e-commerce-page.c8ed0e50.png",
     "static/media/giza.36f3f8b5.png": "/portfolio/static/media/giza.36f3f8b5.png",
     "static/media/hieroglyph.0270a643.png": "/portfolio/static/media/hieroglyph.0270a643.png",
-    "static/media/price-grid-component.308f12f1.png": "/portfolio/static/media/price-grid-component.308f12f1.png",
     "static/media/scarab.e24244a1.png": "/portfolio/static/media/scarab.e24244a1.png",
     "static/media/snake-game.c382b2f5.png": "/portfolio/static/media/snake-game.c382b2f5.png",
+    "static/media/spotify.3e672762.png": "/portfolio/static/media/spotify.3e672762.png",
     "static/media/to-do-list.4c5944bb.png": "/portfolio/static/media/to-do-list.4c5944bb.png",
     "static/media/weather-app.326720e1.png": "/portfolio/static/media/weather-app.326720e1.png"
   },
@@ -28,6 +28,6 @@
     "static/js/runtime-main.965c0103.js",
     "static/js/2.7f755bad.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.d41d84fe.chunk.js"
+    "static/js/main.e325cebf.chunk.js"
   ]
 }
